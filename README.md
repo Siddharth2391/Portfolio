@@ -5,3 +5,6 @@ A portfolio website is a unique way to showcase your work and let others know ab
 
 1. Software - VS code
 2. Technologies - Html, Css, Bootstrap
+
+### Final Output ###
+![alt text](https://github.com/Siddharth2391/Portfolio/blob/main/img/Screenshot%202022-10-27%20033209.png?raw=true)
