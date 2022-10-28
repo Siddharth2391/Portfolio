@@ -64,6 +64,10 @@ section{
   .change h5{
     font-size: small;
   }
+  .change h6{
+    font-size: small;
+  }
+  
   .typewriter{
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     border-right: .15em solid rgb(255, 0, 0); /* The typwriter cursor */
